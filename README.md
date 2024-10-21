@@ -1,6 +1,6 @@
 # Protogen beast
 I like furry's,protogen's
-and games and horror's movies
+, games and horror's movies
 
 ![protogen_furry_by_pretelzz_de3b322-fullview](https://github.com/user-attachments/assets/4505eeea-b7d4-4f49-bf7b-59540da41e22)
 
