@@ -16,22 +16,22 @@ I like furry's,furry's,protogen's
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Olá 1°B</title>
+	<title>ProtonsZ </title>
 	<!--Vinculando o css externo -->
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 	<header>
-		<h>Olá 1°B este é um modelo para utilizar no seu projeto</h>
+		<h>Crie seu protogen, com peças exclusivas da protonsZ</h>
 	</header>
 
 	<section>
-		<p class="destaque"> Quando colocamos a classe destaque, o parágrafo fica destacado.</p>
+		<p class="destaque"> Peças de metal, plastico, papelão ect.</p>
 		<p>Este é o parágrafo normal.</p>
 	</section>
 
 	<footer>
-		<p id="rodape"> Isso permite colocar um rodapé na página.</p>
+		<p id="rodape"> VENHA E TENHA TÁ ESPERANDO O QUE!?.</p>
 	</footer>
 </body>
 </html>
